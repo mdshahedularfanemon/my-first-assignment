@@ -1,5 +1,5 @@
 
-* {
+*\{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #f5f7ff;
+  background-color: #c4cae6;
   color: #1f1f1f;
 }
 
@@ -18,9 +18,9 @@ header, footer, section {
 
 
 
-nav {
-  background: url('images/nav-bg.png') no-repeat center center;
-  background-size: cover;
+nav{
+  background: url('images/nav-bg.png')no-repeat center;
+  background-size:Cover;
   padding: 20px 40px;
   display: flex;
   justify-content: space-between;
